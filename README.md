@@ -1,9 +1,10 @@
 # LibraryManagementSystem
 
 <t2>Project Name: Database Connection Application</t2>
+<br>
 Description:
 
-<p><
+<p>
 This project is a simple Java-based Database Application designed to demonstrate how to connect to a relational database using JDBC (Java Database Connectivity). The application provides a basic framework to connect to a MySQL (or any other database) instance, execute SQL queries, and retrieve data.
 
 The project includes essential features such as:
